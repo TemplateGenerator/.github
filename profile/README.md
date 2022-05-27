@@ -17,6 +17,8 @@ Isn't that exciting??
 What are you waiting for? go create your own template :grinning:    https://instant-template-generator.herokuapp.com/
 
 #
+<p><strong>Application Repository</strong> <a href='https://github.com/TemplateGenerator/template-generator'>https://github.com/TemplateGenerator/template-generator</a></p>
+
 #
 
 <p><strong><a href='https://instant-template-generator.herokuapp.com/'>Template Generator</a></strong> is a single-page application, built with:</p>
