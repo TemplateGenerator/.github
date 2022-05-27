@@ -14,4 +14,4 @@ With TemplateGenerator you can create the template you like with a few clicks
 
 Isn't that exciting??
 
-What are you waiting for? go create your own template :grinning:
+What are you waiting for? go create your own template :grinning:    https://instant-template-generator.herokuapp.com/
