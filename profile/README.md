@@ -14,14 +14,14 @@ With TemplateGenerator you can create the template you like with a few clicks
 
 Isn't that exciting??
 
-What are you waiting for? go create your own template :grinning:    https://instant-template-generator.herokuapp.com/
+What are you waiting for? go create your own template :grinning:    https://templatebook.herokuapp.com/
 
 #
 <p><strong>Application Repository</strong> <a href='https://github.com/TemplateGenerator/template-generator'>https://github.com/TemplateGenerator/template-generator</a></p>
 
 #
 
-<p><strong><a href='https://instant-template-generator.herokuapp.com/'>Template Generator</a></strong> is a single-page application, built with:</p>
+<p><strong><a href='https://templatebook.herokuapp.com/'>Template Generator</a></strong> is a single-page application, built with:</p>
   <ul>
     <li><a href='https://get.asp.net/'>ASP.NET Core</a> and <a href='https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx'>C#</a> for cross-platform server-side code</li>
     <li><a href='https://facebook.github.io/react/'>React</a> for client-side code</li>
